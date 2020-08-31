@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Tim van den Oever
+	email = {email}
+[alias]
+	co = checkout
+	st = status
+	ci = commit
+	br = branch
+[core]
+	hooksPath = /Users/{user}/.git/hooks
